@@ -1,71 +1,71 @@
 ###################
-What is CodeIgniter
+Aplikasi Penjualan Sederhana
 ###################
 
-CodeIgniter is an Application Development Framework - a toolkit - for people
-who build web sites using PHP. Its goal is to enable you to develop projects
-much faster than you could if you were writing code from scratch, by providing
-a rich set of libraries for commonly needed tasks, as well as a simple
-interface and logical structure to access these libraries. CodeIgniter lets
-you creatively focus on your project by minimizing the amount of code needed
-for a given task.
+Aplikasi Penjualan Sederhana adalah sebuah sistem berbasis web yang dibangun menggunakan
+framework CodeIgniter 3. Aplikasi ini dirancang untuk membantu pengguna dalam mengelola
+penjualan produk secara efektif dan efisien. Dengan menggunakan aplikasi ini, pengguna dapat
+melakukan pencatatan konsumen, produk, transaksi penjualan, serta kategori produk. 
+Tujuannya adalah untuk menyediakan solusi sederhana bagi pelaku usaha kecil hingga menengah 
+agar dapat memonitor penjualan dan manajemen produk secara terorganisir.
 
 *******************
-Release Information
+Informasi Rilis
 *******************
 
-This repo contains in-development code for future releases. To download the
-latest stable release please visit the `CodeIgniter Downloads
-<https://codeigniter.com/download>`_ page.
+Repo ini berisi kode yang sedang dalam tahap pengembangan untuk rilis mendatang. Untuk
+mengunduh rilis stabil terbaru, silakan kunjungi halaman `CodeIgniter Downloads
+<https://codeigniter.com/download>`_.
 
 **************************
-Changelog and New Features
+Perubahan dan Fitur Baru
 **************************
 
-You can find a list of all changes for each release in the `user
-guide change log <https://github.com/bcit-ci/CodeIgniter/blob/develop/user_guide_src/source/changelog.rst>`_.
+Anda dapat menemukan daftar semua perubahan untuk setiap rilis di `changelog panduan pengguna 
+<https://github.com/bcit-ci/CodeIgniter/blob/develop/user_guide_src/source/changelog.rst>`_.
 
 *******************
-Server Requirements
+Persyaratan Server
 *******************
 
-PHP version 5.6 or newer is recommended.
+Disarankan menggunakan PHP versi 5.6 atau yang lebih baru.
 
-It should work on 5.3.7 as well, but we strongly advise you NOT to run
-such old versions of PHP, because of potential security and performance
-issues, as well as missing features.
+Aplikasi ini juga dapat berjalan di PHP versi 5.3.7, tetapi kami sangat menyarankan
+untuk tidak menggunakan versi PHP lama karena masalah keamanan, kinerja, dan fitur yang hilang.
 
 ************
-Installation
+Instalasi
 ************
 
-Please see the `installation section <https://codeigniter.com/userguide3/installation/index.html>`_
-of the CodeIgniter User Guide.
+Untuk detail lebih lanjut mengenai proses instalasi, silakan lihat bagian
+`instalasi <https://codeigniter.com/userguide3/installation/index.html>`_
+pada Panduan Pengguna CodeIgniter.
 
 *******
-License
+Lisensi
 *******
 
-Please see the `license
-agreement <https://github.com/bcit-ci/CodeIgniter/blob/develop/user_guide_src/source/license.rst>`_.
+Aplikasi ini menggunakan lisensi dari CodeIgniter. Untuk informasi lebih lanjut,
+silakan lihat `perjanjian lisensi
+<https://github.com/bcit-ci/CodeIgniter/blob/develop/user_guide_src/source/license.rst>`_.
 
 *********
-Resources
+Sumber Daya
 *********
 
--  `User Guide <https://codeigniter.com/docs>`_
--  `Contributing Guide <https://github.com/bcit-ci/CodeIgniter/blob/develop/contributing.md>`_
--  `Language File Translations <https://github.com/bcit-ci/codeigniter3-translations>`_
--  `Community Forums <http://forum.codeigniter.com/>`_
--  `Community Wiki <https://github.com/bcit-ci/CodeIgniter/wiki>`_
--  `Community Slack Channel <https://codeigniterchat.slack.com>`_
+-  `Panduan Pengguna <https://codeigniter.com/docs>`_
+-  `Panduan Kontribusi <https://github.com/bcit-ci/CodeIgniter/blob/develop/contributing.md>`_
+-  `Terjemahan Berkas Bahasa <https://github.com/bcit-ci/codeigniter3-translations>`_
+-  `Forum Komunitas <http://forum.codeigniter.com/>`_
+-  `Wiki Komunitas <https://github.com/bcit-ci/CodeIgniter/wiki>`_
+-  `Saluran Slack Komunitas <https://codeigniterchat.slack.com>`_
 
-Report security issues to our `Security Panel <mailto:security@codeigniter.com>`_
-or via our `page on HackerOne <https://hackerone.com/codeigniter>`_, thank you.
+Untuk melaporkan masalah keamanan, silakan kirim ke `Panel Keamanan <mailto:security@codeigniter.com>`_
+atau melalui `halaman HackerOne <https://hackerone.com/codeigniter>`_, terima kasih.
 
 ***************
-Acknowledgement
+Penghargaan
 ***************
 
-The CodeIgniter team would like to thank EllisLab, all the
-contributors to the CodeIgniter project and you, the CodeIgniter user.
+Tim pengembang Aplikasi Penjualan Sederhana ingin mengucapkan terima kasih kepada EllisLab,
+semua kontributor proyek CodeIgniter, dan Anda, pengguna CodeIgniter.
