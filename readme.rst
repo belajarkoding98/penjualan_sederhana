@@ -9,6 +9,10 @@ melakukan pencatatan konsumen, produk, transaksi penjualan, serta kategori produ
 Tujuannya adalah untuk menyediakan solusi sederhana bagi pelaku usaha kecil hingga menengah 
 agar dapat memonitor penjualan dan manajemen produk secara terorganisir.
 
+Aplikasi ini mendukung login pengguna dengan akun bawaan:
+- Username: **andika123**
+- Password: **qweqweqwe**
+
 *******************
 Informasi Rilis
 *******************
@@ -28,10 +32,8 @@ Anda dapat menemukan daftar semua perubahan untuk setiap rilis di `changelog pan
 Persyaratan Server
 *******************
 
-Disarankan menggunakan PHP versi 5.6 atau yang lebih baru.
-
-Aplikasi ini juga dapat berjalan di PHP versi 5.3.7, tetapi kami sangat menyarankan
-untuk tidak menggunakan versi PHP lama karena masalah keamanan, kinerja, dan fitur yang hilang.
+Aplikasi ini dapat berjalan di PHP versi 5.6 atau yang lebih baru, termasuk PHP 7.2.
+Kami sangat menyarankan menggunakan versi PHP terbaru untuk alasan keamanan dan kinerja.
 
 ************
 Instalasi
